@@ -200,6 +200,7 @@ pre .coffeescript .javascript,pre .javascript .xml,pre .tex .formula,pre .xml .j
 }
 
 html {
+  cursor: url(https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/img/default.cur),auto;
   height: 100%;
   max-height: 100%;
   padding: 0;
